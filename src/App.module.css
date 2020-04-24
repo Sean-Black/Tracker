@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(212, 148, 64);
+  color: silver;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center !important;
+}
